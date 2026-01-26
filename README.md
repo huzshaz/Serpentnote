@@ -1,4 +1,5 @@
 # Serpentnote - AI Image Prompt Library
+<img width="1920" height="1033" alt="electron_5ABoiHC2h6" src="https://github.com/user-attachments/assets/f28c7bfe-e0ba-4558-b6a9-5351949c1020" />
 
 **Your personal command center for AI art generation workflows.**
 
@@ -8,9 +9,11 @@ Serpentnote is a powerful visual prompt management tool designed for serious AI 
 
 ### 🎯 **Channel-Based Organization**
 Create themed collections with custom names and emojis—think "Cyberpunk Portraits 🌆", "Fantasy Landscapes 🏔️", or "Product Shots 📸". Each channel stores its own prompts, tags, and reference images.
-
+<img width="1919" height="982" alt="electron_noS5RFFSTR" src="https://github.com/user-attachments/assets/9ddd9cd5-a74e-40ce-96ac-51e39feb9a5f" />
 ### 🎨 **Dual Prompt System**
 Master prompt engineering with separate **positive prompts** (what you want) and **negative prompts** (what to avoid). Perfect for fine-tuning Stable Diffusion outputs.
+
+<img width="653" height="959" alt="electron_odjuCXfmaE" src="https://github.com/user-attachments/assets/006a6a45-8076-4e7b-9cf1-478f7681d213" />
 
 ### 🏷️ **Smart Tag Library**
 Build reusable tag collections that instantly modify prompts without rewriting. Mix and match quality settings, art styles, camera angles, and lighting conditions.
@@ -23,6 +26,8 @@ Access 650+ professional AI art tags with intelligent autocomplete:
 - Camera angles: `portrait`, `wide shot`, `from below`, `fisheye`
 - And much more...
 
+- <img width="561" height="323" alt="electron_NCRyA8mJff" src="https://github.com/user-attachments/assets/85e8f77f-6345-4fe5-85c3-44a696fb2b4c" />
+
 ### 📸 **Visual Reference Gallery**
 Attach unlimited reference images to each channel. Track what worked, compare variations, and build a visual library of your successful generations.
 
@@ -31,6 +36,8 @@ Bookmark your best-performing prompts and organize channels with drag-and-drop r
 
 ### 💾 **Import/Export Everything**
 Backup your entire prompt library or share collections with your team. Perfect for collaboration or migrating between machines.
+
+<img width="551" height="340" alt="electron_vEy8cwZDWh" src="https://github.com/user-attachments/assets/7ea5b58b-ba7e-4e4d-b344-56f295e0a0f4" />
 
 ### 🌍 **Multi-Language Interface**
 Work in your preferred language: English, Spanish, French, German, Japanese, or Chinese.
