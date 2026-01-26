@@ -1,0 +1,10 @@
+{
+  "name": "Serpentnote",
+  "short_name": "Serpentnote",
+  "description": "A cozy prompt library for organizing AI-generated images with Discord-like channels and tag filtering",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1976D2",
+  "icons": []
+}
