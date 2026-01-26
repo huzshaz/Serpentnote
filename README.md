@@ -1,4 +1,4 @@
-(If you want to support my work, you can check out my [Ko-Fi](ko-fi.com/lunarsoda69))
+If you want to support my work, you can check out my [Ko-Fi](https://ko-fi.com/lunarsoda69)
 
 # Serpentnote - AI Image Prompt Library
 <img width="1920" height="1033" alt="electron_5ABoiHC2h6" src="https://github.com/user-attachments/assets/f28c7bfe-e0ba-4558-b6a9-5351949c1020" />
